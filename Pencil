@@ -1,0 +1,33 @@
+1
+    Boolean socialSecurityStatus= age>65 ? “eligible”: socialSecurityStatus = “ineligible”;
+2
+
+    a. f
+
+    b. 15
+
+    c. friendly
+
+    d. a fri
+
+3
+
+    a. Double a = r * Math.PI;
+
+    b. Double diag = Math.sqrt(Math.pow(len, 2) + Math.pow(wid, 2)) ;
+
+4
+    a. 1 int
+
+    b. 5 int
+
+    c. 8 int
+
+    d. 33 int
+
+5)
+    Assuming b is declared somewhere above, the statement is legal and it will compile.
+
+	If b is declared somewhere, the value of a will be 5.
+
+	If b is not declared it is not going to compile
